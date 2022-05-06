@@ -1,0 +1,6 @@
+a.out
+cs221.txt
+cs221.pdf
+usf.txt
+nope.pdf
+.txt

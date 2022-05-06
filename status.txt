@@ -1,0 +1,11 @@
+Vicki Young
+Project 2
+
+program works as required
+compiles/runs and the output matches the correct format
+included comments explaining most lines of code
+
+- testing line "a" against pattern ".." does not work as intended on echo, due to how echo seems to read line "a" with a newline, making the wordcount for line "a" 2
+- testing for pattern "\\" does not work as intended on echo, even though code properly handles backslash operators
+- code does not support patterns with operators of the same type following one another ("++++", "????", "\\\\")
+- code does not support patterns following backslashed operators ("\??", "\++", "\+?", and "\?+")
